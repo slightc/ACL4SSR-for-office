@@ -18,3 +18,5 @@ DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,googleapis.com
 
 DOMAIN-SUFFIX,api.anthropic.com
+
+DOMAIN-SUFFIX,openai.com
